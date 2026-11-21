@@ -1,0 +1,5 @@
+Python 3 (standard library modules used by application files)
+Mininet (Ubuntu package)
+Open vSwitch (Ubuntu package)
+OS-Ken (installed in the project's Python virtual environment)
+Wireshark (optional, for packet capture)
